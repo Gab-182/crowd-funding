@@ -1,0 +1,10 @@
+Wrote new keypair to keypair.json
+=============================================================================
+pubkey: DEJc3GbzdksU1dNKWAwiVx9Vi8bHHRKYHdfdadRaVMKm
+=============================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+zebra slender morning way fresh library anchor employ power demise own update
+=============================================================================
+
+
+Program Id: Dysn8KbXUuG4rB8JMA32MTVnKCGoTpuCTaFZtYxmYWXM
